@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning B.tech
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @el_diado
-- 😄 Pronouns: ...
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm still student
 
 <!---
